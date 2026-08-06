@@ -72,3 +72,8 @@ pnpm-lock.yaml
 *.db
 *.sqlite
 *.sqlite3
+
+# Python venv folders (my ageny)
+"my ageny"/.venv/
+"my ageny"/venv/
+"my ageny"/__pycache__/
